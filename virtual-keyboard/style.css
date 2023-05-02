@@ -1,0 +1,12 @@
+#keyboard {
+	height: 360px;
+	width: 100%;
+	border: 1px solid #000;
+}
+.key-button {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border: 1px solid #000;
+	margin: 5px;
+}
